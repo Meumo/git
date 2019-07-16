@@ -1,2 +1,1 @@
-#  Lab de prise en main de git sous
-Eclipse.
+#  Lab de prise en main de git sous eclipse.
